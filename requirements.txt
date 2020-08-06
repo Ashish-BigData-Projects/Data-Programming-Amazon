@@ -8,5 +8,4 @@ PyMySQL
 SQLAlchemy
 APScheduler
 Flask
-jsonlib
 simplejson
